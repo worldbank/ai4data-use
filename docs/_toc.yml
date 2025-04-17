@@ -1,0 +1,28 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: Introduction
+    numbered: False
+    chapters:
+      - file: docs/introduction.md
+  - caption: Synthetic Data Generation
+    numbered: False
+    chapters:
+      - file: notebooks/Weakly Supervised Labeling.ipynb
+      - file: notebooks/LLM as a Judge Critic.ipynb
+      - file: notebooks/Autonomous Reasoning Agent.ipynb
+      - file: notebooks/generate-finetuning-simpleschema.ipynb
+  - caption: Model Training / Fine-Tuning
+    numbered: False
+    chapters:
+      - file: notebooks/finetune-data-use-using-unsloth.ipynb
+  - caption: Inference
+    numbered: False
+    chapters:
+      - file: notebooks/inference-data-use.ipynb
+  - caption: Miscellaneous
+    numbered: False
+    chapters:
+      - file: notebooks/consolidate dataset.ipynb
+      - file: docs/batch-processing.md

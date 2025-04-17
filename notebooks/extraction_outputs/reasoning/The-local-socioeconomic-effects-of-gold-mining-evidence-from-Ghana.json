@@ -1,0 +1,419 @@
+{
+    "source": "The-local-socioeconomic-effects-of-gold-mining-evidence-from-Ghana",
+    "pages": [
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "In addition, they provide more detailed information on labor market \nparticipation, such as exact profession (where, for example, being a miner is a possible \noutcome), hours worked, and a wage indicator. The data estimate household expenditure and \nhousehold income. Wages, income, and expenditure can, however, be difficult to measure in \neconomies where nonmonetary compensation for labor and subsistence farming are common \npractices. 4 Empirical Strategies \n4.1 Individual-level difference-in-differences  \nTime-varying data on production and repeated survey data allow us to use a difference-in-\ndifferences approach.7 However, due to the spatial nature of our data and the fact that some \nmines are spatially clustered, we use a strategy developed by Benshaul-Tolonen (2018). The \ndifference-in-difference model compares the treatment group (close to mines) before and after \nthe mine opening, while removing the change that happens in the control group (far away from \nmines) over time under the assumption that such changes reflect underlying temporal variation \ncommon to both treatment and control areas.",
+                    "page": 12,
+                    "dataset_used": true,
+                    "datasets": []
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "The baseline differences in observable characteristics – in particular, lower levels of economic development preceding the mine opening - indicate that a cross-sectional approach using only the post-period may not be sufficient to understand the impact of gold mining on socio-economic variables. Table 2 Summary statistics for women’s survey (1) (2) (3) (4) Before mining During Mining >20 km <20 km >20 km <20 km Mean Coefficient Mean Coefficient Woman Characteristics Age 28.79 0.836 28.95 -0.352 Total children 2.18 0.417* 2.56 -0.035 Wealth 3.85 -0.619** 3.33 -0.028 Nonmigrant 0.32 0.123** 0.33 -0.028 Urban 0.62 -0.300** 0.49 -0.150** No education 0.17 -0.045 0.20 -0.042** <3 years education 0.77 0.035 0.74 0.045**",
+                    "page": 17,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "women’s survey",
+                            "harmonized_name": null,
+                            "acronym": null,
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "The \noutcomes seem to improve with mining, although not enough to offset the initial adverse \nsituation. To test for exogeneity, we run regressions using baseline individual-level data to explore \nchanges in observable characteristics among women (the main part of the sample). Table 3 \nshows that there are no significant effects of the mine opening on the age structure, migration \nhistory, marital status, fertility, or education, using the difference-in-difference specification \nwith a full set of controls.",
+                    "page": 18,
+                    "dataset_used": true,
+                    "datasets": []
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "There is no change in the likelihood that she is not working. These 5 categories \nstem from the same occupational variable in the DHS data, and are mutually exclusive. The \nsurveyed individual is told to report their main occupation.",
+                    "page": 19,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "DHS data",
+                            "harmonized_name": null,
+                            "acronym": "DHS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "Splitting the sample by gender, we note that this decrease is \nonly statistically significant for boys at an effect size of 6.6 percentage points. Table 5 OLS estimates of birth outcomes, infant survival, and child health in the DHS individual-\nlevel analysis \n \nPANEL A                                  size at birth                        infant mortality (<12months)                  antenatal visits \n \nsmall \naverage \nlarge \n  \nall \nboys \ngirls \n  \n# visits \nat least 1 \nactive*mine \n0.022 \n0.053 \n-0.075* \n \n-0.041* \n-0.066** \n-0.020 \n \n-0.151 \n-0.007 \n \n(0.028) \n(0.041) \n(0.041) \n \n(0.022) \n(0.030) \n(0.035) \n \n(0.331) \n(0.028) \nmine \n-0.010 \n0.071** \n-0.061** \n \n0.004 \n0.008 \n0.001 \n \n0.153 \n0.000 \n \n(0.019) \n(0.028) \n(0.030) \n \n(0.015) \n(0.020) \n(0.024) \n \n(0.241) \n(0.019) \nactive \n-0.010 \n0.054** \n-0.044 \n \n0.002 \n0.014 \n-0.012 \n \n0.012 \n0.002 \n \n(0.016) \n(0.026) \n(0.027) \n \n(0.014) \n(0.022) \n(0.018) \n \n(0.209) \n(0.012) \n \n \n \n \n \n \n \n \n \n \n \nObservations \n6,771 \n6,771 \n6,771 \n \n5,356 \n2,718 \n2,638 \n \n5,704 \n5,704 \nR-squared \n0.031 \n0.054 \n0.059 \n \n0.135 \n0.160 \n0.152 \n \n0.186 \n0.062 \nMean of dep var. 0.136 \n0.359 \n0.505 \n \n0.073 \n0.08 \n0.066 \n \n5.79 \n0.941 \n \n \n \n \n \n \n \n \n \n \n \nPANEL B \nin the last 2 weeks, had:         \nfever          cough        diarrhea \n  \nanthropometrics (WHO) in sd \nht/a              wt/a            wt/ht \n  \nhas                             \nhealth card \nactive*mine \n-0.035 \n-0.061* \n0.042 \n \n-3.532 \n-5.208 \n-0.641 \n \n0.014 \n  \n \n(0.037) \n(0.033) \n(0.027) \n \n(11.472) \n(9.283) \n(8.948) \n \n(0.027) \nmine \n-0.002 \n-0.006 \n-0.038 \n \n-0.828 \n3.481 \n3.853 \n \n-0.006 \n \n \n(0.031) \n(0.028) \n(0.024) \n \n(10.385) \n(8.574) \n(7.468) \n \n(0.022) \n \nactive \n0.023 \n-0.003 \n-0.033** \n \n-1.904 \n5.265 \n9.433* \n \n0.009 \n \n \n(0.020) \n(0.020) \n(0.016) \n \n(5.942) \n(5.304) \n(5.183) \n \n(0.012) \n \n \n \n \n \n \n \n \n \n \n \n \nObservations \n6,246 \n6,257 \n6,262 \n \n5,627 \n5,627 \n5,727 \n \n6,378 \n \nR-squared \n0.024 \n0.043 \n0.024 \n \n0.136 \n0.080 \n0.036 \n \n0.084 \n \nMean of dep var.",
+                    "page": 21,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "DHS individual-level analysis",
+                            "harmonized_name": null,
+                            "acronym": "DHS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "25 \n \n \nNote: Figure 5 shows the main treatment coefficients (active*mine) using the baseline estimation strategy (with \nDHS individual-level data; see table 4 for more information) in the top panel, but with different cutoffs (10 km, \n20 km, 30 km, 40 km, and 50 km). *** p<0.01, **p<0.05, *p<0.1.",
+                    "page": 27,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "DHS individual-level data",
+                            "harmonized_name": "Demographic and Health Surveys (DHS)",
+                            "acronym": "DHS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "OLS = ordinary least squares. 6.4 Bottom 40% of the population \nTo understand the welfare effects of the bottom 40 percent of the population in the income \nscale, we split the sample according to the wealth score provided by DHS. Given the data \nstructure, which is repeated cross-section, we cannot follow a particular household that was \nidentified as belonging to the bottom 40 percent in the initial time period.",
+                    "page": 29,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "DHS",
+                            "harmonized_name": null,
+                            "acronym": "DHS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "30 \n \nTable 11 Using GLSS: Employment on extensive and intensive margin and wages \n  \n(1) \nworked \nlast  year \n(2) \nwork 7 \ndays \n(3) \nhours \nworked \nper week \n(4) \nagri- \nculture \n(5) \nservice \nand sales \n(6) \nminer \nPanel A: Women  \n  \n  \n  \n  \n  \n  \n1. baseline  \n \n \n \n \n \n \nactive*mine \n-0.067* \n-0.032 \n3.565 \n-0.075 \n0.074 \n0.025 \n \n(0.040) \n(0.038) \n(3.140) \n(0.064) \n(0.054) \n(0.016) \n2. drop 20-40 km \n \n \n \n \n \n \nactive*mine \n-0.062 \n-0.039 \n3.849 \n-0.076 \n0.094* \n0.026* \n \n(0.040) \n(0.039) \n(3.359) \n(0.064) \n(0.057) \n(0.015) \n3. drop 2 years before \n \n \n \n \n \n \nactive*mine \n-0.067* \n-0.031 \n3.565 \n-0.087 \n0.080 \n0.024 \n \n(0.040) \n(0.038) \n(3.140) \n(0.065) \n(0.055) \n(0.016) \n4. mine FE \n \n \n \n \n \n \nactive*mine \n-0.067 \n-0.012 \n8.560* \n-0.084 \n0.104 \n0.025* \n \n(0.051) \n(0.048) \n(5.125) \n(0.075) \n(0.065) \n(0.015) \n5. mine clustering \n \n \n \n \n \n \nactive*mine \n-0.067* \n-0.032 \n3.565 \n-0.075 \n0.074 \n0.025 \n \n(0.032) \n(0.036) \n(3.521) \n(0.081) \n(0.080) \n(0.022) \n \n \n \n \n \n \n \nMean dep var. 0.727 \n0.673 \n40.39 \n42.32 \n0.391 \n0.005 \nPanel B: Men \n  \n  \n  \n  \n  \n  \n1. baseline  \n-0.086** \n-0.055 \n3.705 \n-0.058 \n-0.032 \n0.125*** \nactive*mine \n(0.041) \n(0.039) \n(3.460) \n(0.066) \n(0.036) \n(0.043) \n \n \n \n \n \n \n \n2. drop 20-40 km \n \n \n \n \n \n \nactive*mine \n-0.094** \n-0.062 \n3.893 \n-0.064 \n-0.031 \n0.126*** \n \n(0.042) \n(0.040) \n(3.842) \n(0.066) \n(0.038) \n(0.042) \n3. drop 2 years before \n \n \n \n \n \n \nactive*mine \n-0.094** \n-0.062 \n3.708 \n-0.071 \n-0.026 \n0.125*** \n \n(0.041) \n(0.039) \n(3.459) \n(0.067) \n(0.036) \n(0.043) \n4. mine FE \n \n \n \n \n \n \nactive*mine \n-0.123** \n-0.094* \n8.233 \n-0.068 \n-0.049 \n0.113** \n \n(0.057) \n(0.051) \n(5.425) \n(0.075) \n(0.044) \n(0.045) \n5. mine clustering \n \n \n \n \n \n \nactive*mine \n-0.086*** \n-0.055** \n3.705 \n-0.058 \n-0.032 \n0.125** \n \n(0.025) \n(0.025) \n(2.898) \n(0.086) \n(0.032) \n(0.051) \n \n \n \n \n \n \n \nMean dep var \n0.715 \n0.705 \n45.71 \n0.491 \n0.259 \n0.028 \n \nNote: The table uses GLSS data for Ghana for the survey years 1998, 2005, 2012. The sample is restricted to \nwomen and men aged 15–49.",
+                    "page": 32,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "GLSS data",
+                            "harmonized_name": "Ghana Living Standards Survey (GLSS)",
+                            "acronym": "GLSS",
+                            "producer": null,
+                            "year": "1998, 2005, 2012",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "Natural resource extraction is often argued to have detrimental effects on countries, \nhowever, and the so-called natural resource curse may imply that resource wealth is harmful to \nsocial development and inclusive growth. We use rich geocoded data with information on \nhouseholds and mining production over time to evaluate the gold boom at the local and district \nlevels in difference-in-differences analyses. Men benefit from direct job creation within the mining sector, and women seem to benefit from \nindirectly generated jobs in the service sector (statistically significant within 10 km from a \nmine).",
+                    "page": 37,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "geocoded data with information on households and mining production",
+                            "harmonized_name": null,
+                            "acronym": null,
+                            "producer": null,
+                            "year": null,
+                            "specificity": "descriptive_but_unnamed",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "We also allow for spillovers across \ndistricts, in a district-level analysis. We use two complementary geocoded household data sets \nto analyze outcomes in Ghana: the Demographic and Health Survey (DHS) and the Ghana \nLiving Standard Survey (GLSS), which provide information on a wide range of welfare \noutcomes. The paper contributes to the growing literature on the local effects of mining.",
+                    "page": 4,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "Demographic and Health Survey (DHS)",
+                            "harmonized_name": "Demographic and Health Survey (DHS)",
+                            "acronym": "DHS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "Ghana Living Standard Survey (GLSS)",
+                            "harmonized_name": "Ghana Living Standard Survey (GLSS)",
+                            "acronym": "GLSS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "Mining is also associated with more economic \nactivity measured by nightlights (Benshaul-Tolonen, 2019; Mamo et al, 2019). Kotsadam and Tolonen (2016) use DHS data from Africa, and find that mine openings cause \nwomen to shift from agriculture to service production and that women become more likely to \nwork for cash and year-round as opposed to seasonally. Continuing this analysis, Benshaul-\nTolonen (2018) explores the links between mining and female empowerment in eight gold-\nproducing countries in East and West Africa, including Ghana.",
+                    "page": 5,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "DHS data",
+                            "harmonized_name": "Demographic and Health Surveys (DHS)",
+                            "acronym": "DHS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "We explore the effects of mining activity on employment, earnings, expenditure, and children’s health outcomes in local communities and in districts with gold mining. We combine the DHS and GLSS with production data for 17 large-scale gold mines in Ghana. We find that a new large-scale gold mine changes economic outcomes, such as access to employment and cash earnings.",
+                    "page": 5,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "GLSS",
+                            "harmonized_name": null,
+                            "acronym": "GLSS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "12 currently active mines dominate the sector, and there are an additional five suspended mines \nthat have been in production in recent decades. Table 1 presents a full list of the mines, the year \nthey opened, and their status as of December 2012. Company name and country are for the \nmain shareowner in the mine.",
+                    "page": 8,
+                    "dataset_used": true,
+                    "datasets": []
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "3 Data \nTo conduct this analysis, we combine different data sources using spatial analysis. The main \nmining data is a dataset from InterraRMG covering all large-scale mines in Ghana, explained \nin more detail in section 3.1. This dataset is linked to survey data from the DHS and GLSS, \nusing spatial information. Geographical coordinates of enumeration areas in GLSS are from \nGhana Statistical Services (GSS).2 Point coordinates (global positioning system [GPS]) for the \nsurveyed DHS clusters3 allow us to match all individuals to one or several mineral mines. We \ndo this in two ways.",
+                    "page": 9,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "dataset from InterraRMG covering all large-scale mines in Ghana",
+                            "harmonized_name": "InterraRMG Large-Scale Mines Dataset",
+                            "acronym": "None",
+                            "producer": "InterraRMG",
+                            "year": null,
+                            "specificity": "descriptive_but_unnamed",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "DHS",
+                            "harmonized_name": "Demographic and Health Surveys",
+                            "acronym": "DHS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "supporting",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "GLSS",
+                            "harmonized_name": "Ghana Living Standards Survey",
+                            "acronym": "GLSS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "supporting",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "8\n \nwe use a cutoff distance of 20 km, we assume there is little economic footprint beyond that distance. Of course, any such distance is arbitrarily chosen, which is why we try different specifications to explore the spatial heterogeneity by varying this distance (using 10 km, 20 km, through 50 km) as well as a spatial lag structure (using 0 to 10 km, 10 to 20 km, through 40 to 50 km distance bins).4  \nSecond, we collapse the DHS mining data at the district level.5 The number of districts has changed over time in Ghana, because districts with high population growth have been split into smaller districts. To avoid endogeneity concerns, we use the baseline number of districts that existed at the start of our analysis period, which are 137.",
+                    "page": 10,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "DHS mining data",
+                            "harmonized_name": null,
+                            "acronym": "DHS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "Because some mines are close to district boundaries, we additionally test whether there is an effect in neighboring districts. 3.1 Resource data \nThe Raw Materials Data are from InterraRMG (2013). The data set contains information on past or current industrial mines.",
+                    "page": 10,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "Raw Materials Data",
+                            "harmonized_name": "Raw Materials Data from InterraRMG",
+                            "acronym": "None",
+                            "producer": "InterraRMG",
+                            "year": "2013",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "All mines have information on annual production volumes, ownership structure, and GPS coordinates on location. We complete this data with exact geographic location data from MineAtlas (2013), where satellite imagery shows the actual mine boundaries, which allows us to identify and update the center point of each mine. The production data and ownership information are double-checked against the companies’ annual reports.",
+                    "page": 10,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "MineAtlas data",
+                            "harmonized_name": null,
+                            "acronym": "None",
+                            "producer": "MineAtlas",
+                            "year": "2013",
+                            "specificity": "properly_named",
+                            "context": "supporting",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "Road data is an alternative way of defining \ndistance from mines, but time series data on roads is not available. 3.2 Household data \nWe use microdata from the DHS, obtained from standardized surveys across years and \ncountries. We combine the respondents from all four DHS standard surveys in Ghana for which \nthere are geographic identifiers.",
+                    "page": 11,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "DHS",
+                            "harmonized_name": "Demographic and Health Surveys",
+                            "acronym": "DHS",
+                            "producer": null,
+                            "year": null,
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "See Appendix table 1 for definition of \noutcome variables. We complement the analysis with household data from the GLSS collected in the years–1998–99, 2004–05, and 2012–13. These data are a good complement to the DHS data, because they \n \n6 The first mines were opened in 1990, prior to the first household survey.",
+                    "page": 11,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "GLSS",
+                            "harmonized_name": null,
+                            "acronym": "GLSS",
+                            "producer": null,
+                            "year": "1998-2013",
+                            "specificity": "properly_named",
+                            "context": "supporting",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

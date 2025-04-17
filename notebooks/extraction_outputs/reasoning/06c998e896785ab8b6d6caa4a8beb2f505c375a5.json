@@ -1,0 +1,234 @@
+{
+    "source": "06c998e896785ab8b6d6caa4a8beb2f505c375a5",
+    "pages": [
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "As mentioned earlier, the lower bound impact on poverty is \nobtained by combining the consumer and producer impact, while the upper bound impact factors \nin gains for net sellers of food. In two countries (Burkina Faso and Senegal), due to lack of \nappropriate data on agricultural production in the surveys, we compute only the upper bound \nestimates.",
+                    "page": 9,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "data on agricultural production in the surveys",
+                            "harmonized_name": null,
+                            "acronym": null,
+                            "producer": null,
+                            "year": null,
+                            "specificity": "descriptive_but_unnamed",
+                            "context": "supporting",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": " \n13\nTable 1: Food items considered for simulating the potential impact of higher food prices on poverty \nCountry \nHousehold Survey \nFood Items Taken into account for simulations \nBurkina Faso \nQUIBB, 2003 \nRice, Bread, Vegetable oil and butter, Sugar, Milk \nDem. Rep. Congo \n123 Survey, 2005 \nRice, Cassava, Maize, Palm oil, Plantain, Wheat, Sugar, Milk \nGhana \nGLSS, 2005-06 \nRice, Bread, Flour, Maize \nGabon \nCWIQ, 2005 \nRice, Cassava, Maize, Wheat, Palm oil and groundnut oil \nGuinea \nEIBEP, 2002-03 \nRice \nLiberia \nCWIQ , 2007 \nRice (locally produced and imported) \nMali \nELIM, 2006 \nRice, Millet, Maize, Wheat \nNiger \nQUIBB, 2005 \nRice (locally produced and imported), Millet, Sorghum \nNigeria \nNLSS, 2003-04 \nRice, Corn, Maize, Wheat flour and bread, Cassava \nSenegal \nESPS, 2006 \nRice, Vegetable oil, Sugar, Bread, Milk \nSierra Leone \nSLLS, 2003 \nRice \nTogo \nQUIBB, 2006 \nRice, Vegetable oil, Sugar, Bread, Milk \nSource: Authors’ estimation using respective household surveys.",
+                    "page": 15,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "QUIBB, 2003",
+                            "harmonized_name": "QUIBB",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2003",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "123 Survey, 2005",
+                            "harmonized_name": "123 Survey",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2005",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "GLSS, 2005-06",
+                            "harmonized_name": "GLSS",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2005-06",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "CWIQ, 2005",
+                            "harmonized_name": "CWIQ",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2005",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "EIBEP, 2002-03",
+                            "harmonized_name": "EIBEP",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2002-03",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "CWIQ , 2007",
+                            "harmonized_name": "CWIQ",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2007",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "ELIM, 2006",
+                            "harmonized_name": "ELIM",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2006",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "QUIBB, 2005",
+                            "harmonized_name": "QUIBB",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2005",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "NLSS, 2003-04",
+                            "harmonized_name": "NLSS",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2003-04",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "ESPS, 2006",
+                            "harmonized_name": "ESPS",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2006",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "SLLS, 2003",
+                            "harmonized_name": "SLLS",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2003",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        },
+                        {
+                            "raw_name": "QUIBB, 2006",
+                            "harmonized_name": "QUIBB",
+                            "acronym": null,
+                            "producer": null,
+                            "year": "2006",
+                            "specificity": "properly_named",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": " \n19\nFigure 1: Upper and Lower Bound Poverty Impacts\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\nGhana\nTogo\nGuinee\nNigeria\nSierra\nLeone\nGabon \nRDC\nMali\nLiberia\nNiger\nPercentage Point Increase in Poverty\nUpper Bound\nLower Bound\n \nSource: Authors’ estimation using respective household surveys. Figure 2: Upper Bound Estimates for Impact of Increase in Price of Rice\n0\n1\n2\n3\n4\n5\n6\n7\nGabon Ghana\nRDC\nBurkina Nigeria\nTogo\nNiger\nSierra\nLeone\nMali\nGuinee Senegal Liberia\nPercentage Point Increase in Poverty\n25% increase\n50% increase\n \nSource: Authors’ estimation using respective household surveys.",
+                    "page": 21,
+                    "dataset_used": true,
+                    "datasets": []
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "& Prod.) Ghana National \nRice \n3.1 \n74.6 \n28.5 \n29.0 \n29.5 \n29.0 \n29.4 \nBread \n1.9 \n84.6 \n \n28.9 \n29.2 \n \n \nFlour \n0.0 \n2.8 \n \n28.5 \n28.5 \n \n \nMaize \n2.7 \n66.9 \n \n28.8 \n29.0 \n28.3 \n28.2 \nAll \n7.7 \n96.3 \n \n29.6 \n30.4 \n29.2 \n29.7 \n \nGhana Urban \nRice \n3.0 \n74.7 \n10.7 \n11.2 \n11.4 \n11.0 \n11.2 \nBread \n2.0 \n91.4 \n \n11.1 \n11.2 \n \n \nFlour \n0.0 \n2.6 \n \n10.7 \n10.7 \n \n \nMaize \n1.6 \n59.5 \n \n11.0 \n11.3 \n10.8 \n11.0 \nAll \n6.6 \n96.8 \n \n11.5 \n11.8 \n11.4 \n11.7 \n \nGhana Rural \nRice \n3.2 \n74.4 \n39.3 \n39.8 \n40.5 \n39.8 \n40.4 \nBread \n1.7 \n79.4 \n \n39.7 \n40.1 \n \n \nFlour \n0.1 \n2.9 \n \n39.3 \n39.3 \n \n \nMaize \n4.1 \n72.6 \n \n39.5 \n39.8 \n38.9 \n38.7 \nAll \n9.0 \n95.9 \n \n40.4 \n41.6 \n40.0 \n40.5 \nSource: Authors’ estimation using country household survey data",
+                    "page": 25,
+                    "dataset_used": true,
+                    "datasets": []
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "& Prod.) Guinea National \nRice \n13.0 \n90.7 \n49.1 \n50.7 \n52.1 \n50.0 \n50.7 \n \nGuinea Urban \nRice \n9.4 \n89.9 \n23.5 \n26.6 \n29.0 \n26.6 \n29.0 \n \nGuinea Rural \nRice \n16.1 \n91.0 \n59.9 \n60.8 \n61.7 \n59.8 \n59.8 \nSource: Authors’ estimation using country household survey data",
+                    "page": 26,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "country household survey data",
+                            "harmonized_name": null,
+                            "acronym": null,
+                            "producer": null,
+                            "year": null,
+                            "specificity": "descriptive_but_unnamed",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data_mentions": [
+                {
+                    "mentioned_in": "& Prod.) Sierra Leone National \nRice \n11.7 \n96.4 \n66.4 \n67.8 \n69.6 \n67.2 \n68.5 \n \nSierra Leone Urban \nRice \n6.4 \n94.5 \n47.0 \n48.6 \n51.4 \n48.5 \n50.9 \n \nSierra Leone Rural \nRice \n18.2 \n97.7 \n78.6 \n79.9 \n81.0 \n79.0 \n79.6 \nSource: Authors’ estimation using country household survey data",
+                    "page": 32,
+                    "dataset_used": true,
+                    "datasets": [
+                        {
+                            "raw_name": "country household survey data",
+                            "harmonized_name": null,
+                            "acronym": null,
+                            "producer": null,
+                            "year": null,
+                            "specificity": "descriptive_but_unnamed",
+                            "context": "primary",
+                            "valid": true,
+                            "invalid_reason": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
